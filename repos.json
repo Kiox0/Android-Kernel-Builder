@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "DogDay-Normal",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
-      "device": "thyme"
+      "device": "alioth"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -32,9 +32,9 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
-      "device": "thyme"
+      "device": "alioth"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -62,9 +62,9 @@
   {
     "kernelSource": {
       "name": "DogDay-Docker",
-      "repo": "https://github.com/easterNday/kernel_xiaomi_thyme",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
-      "device": "thyme"
+      "device": "alioth"
     },
     "withKernelSU": true,
     "toolchains": [
