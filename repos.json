@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "DogDay-Normal",
       "repo": "https://gitea.com/LeviMarvin/kernel_xiaomi_alioth",
-      "branch": "",
+      "branch": "master",
       "device": "alioth"
     },
     "withKernelSU": false,
@@ -63,7 +63,7 @@
     "kernelSource": {
       "name": "DogDay-Docker",
       "repo": "https://gitea.com/LeviMarvin/kernel_xiaomi_alioth",
-      "branch": "",
+      "branch": "master",
       "device": "alioth"
     },
     "withKernelSU": true,
