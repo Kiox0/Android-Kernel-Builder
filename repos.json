@@ -92,8 +92,8 @@
   {
     "kernelSource": {
       "name": "IMMENSITY-X-KernelSU",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
-      "branch": "android12-stable",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250-munch",
+      "branch": "android-4.19-stable",
       "device": "umi"
     },
     "withKernelSU": true,
