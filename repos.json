@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "DogDay-Normal",
-      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
+      "repo": "https://github.com/LeviMarvin/kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
       "device": "alioth"
     },
@@ -32,7 +32,7 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
+      "repo": "https://github.com/LeviMarvin/kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
       "device": "alioth"
     },
@@ -62,7 +62,7 @@
   {
     "kernelSource": {
       "name": "DogDay-Docker",
-      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_alioth",
+      "repo": "https://github.com/LeviMarvin/kernel_xiaomi_alioth",
       "branch": "lineage-20.0",
       "device": "alioth"
     },
