@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "DogDayAndroid",
-      "repo": "https://github.com/ArrowOS-MiPa-Edition/android_kernel_xiaomi_alioth",
-      "branch": "arrow-13.1",
+      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
+      "branch": "staging",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -32,8 +32,8 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/ArrowOS-MiPa-Edition/android_kernel_xiaomi_alioth",
-      "branch": "arrow-13.1",
+      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
+      "branch": "staging",
       "device": "alioth"
     },
     "withKernelSU": true,
