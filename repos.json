@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Normal",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "master",
+      "branch": "staging",
       "device": "alioth"
     },
     "withKernelSU": false,
@@ -33,7 +33,7 @@
     "kernelSource": {
       "name": "DogDay-KernelSU",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "master",
+      "branch": "staging",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -100,7 +100,7 @@
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
-        "branch": "master",
+        "branch": "staging",
         "name": "gas"
       },
       {
