@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "vendor",
-      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
-      "branch": "lineage-20",
-      "device": "alioth"
+      "name": "DogDayAndroid",
+      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "branch": "lineage-20.0",
+      "device": "thyme"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -14,8 +14,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://github.com/EmanuelCN/zyc_clang-14",
-        "branch": "master",
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+        "branch": "11",
         "name": "clang"
       }
     ],
@@ -32,9 +32,9 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
-      "branch": "lineage-20",
-      "device": "alioth"
+      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "branch": "lineage-20.0",
+      "device": "thyme"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -44,8 +44,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://github.com/EmanuelCN/zyc_clang-14",
-        "branch": "master",
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+        "branch": "11",
         "name": "clang"
       }
     ],
@@ -58,4 +58,5 @@
       "AR": "",
       "CC": "clang"
     }
-  },
+  }
+]
