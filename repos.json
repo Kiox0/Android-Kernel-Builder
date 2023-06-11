@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "DogDay-Normal",
-      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250.git",
+      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "master",
       "device": "alioth"
     },
@@ -32,7 +32,7 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250.git",
+      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "master",
       "device": "alioth"
     },
@@ -92,7 +92,7 @@
   {
     "kernelSource": {
       "name": "IMMENSITY-X-KernelSU",
-      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250.git",
+      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "android-4.19-stable",
       "device": "alioth"
     },
