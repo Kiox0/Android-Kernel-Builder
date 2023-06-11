@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "DogDayAndroid",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme"
+      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
+      "branch": "staging",
+      "device": "alioth"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -15,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "14",
         "name": "clang"
       }
     ],
@@ -32,9 +32,9 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme"
+      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
+      "branch": "staging",
+      "device": "alioth"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -45,7 +45,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "14",
         "name": "clang"
       }
     ],
