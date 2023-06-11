@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "DogDay-Normal",
+      "name": "Normal",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "master",
       "device": "alioth"
@@ -61,8 +61,8 @@
   },
   {
     "kernelSource": {
-      "name": "DogDay-Docker",
-      "repo": "https://gitea.com/LeviMarvin/kernel_xiaomi_alioth",
+      "name": "Docker",
+      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "master",
       "device": "alioth"
     },
