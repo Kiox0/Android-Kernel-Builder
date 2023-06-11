@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Normal",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "master",
+      "branch": "kernel_xiaomi_sm8250",
       "device": "alioth"
     },
     "withKernelSU": false,
@@ -63,7 +63,7 @@
     "kernelSource": {
       "name": "Docker",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "master",
+      "branch": "kernel_xiaomi_sm8250",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -93,7 +93,7 @@
     "kernelSource": {
       "name": "IMMENSITY-X-KernelSU",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "android-4.19-stable",
+      "branch": "kernel_xiaomi_sm8250",
       "device": "alioth"
     },
     "withKernelSU": true,
