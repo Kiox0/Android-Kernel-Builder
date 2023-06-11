@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "vendor",
-      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
-      "branch": "staging",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
+      "branch": "13.0-alioth",
       "device": "alioth"
     },
     "withKernelSU": false,
@@ -32,8 +32,8 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
-      "branch": "staging",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
+      "branch": "13.0-alioth",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -62,8 +62,8 @@
   {
     "kernelSource": {
       "name": "Docker",
-      "repo": "https://github.com/Kiox0/kernel_xiaomi_sm8250",
-      "branch": "staging",
+      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
+      "branch": "13.0-alioth",
       "device": "alioth"
     },
     "withKernelSU": true,
