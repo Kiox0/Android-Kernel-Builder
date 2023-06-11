@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "DogDayAndroid",
       "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
-      "branch": "13-alioth",
+      "branch": "13.0-alioth",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -33,7 +33,7 @@
     "kernelSource": {
       "name": "DogDay-KernelSU",
       "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
-      "branch": "13-alioth",
+      "branch": "13.0-alioth",
       "device": "alioth"
     },
     "withKernelSU": true,
