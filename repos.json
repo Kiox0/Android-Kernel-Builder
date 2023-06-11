@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "vendor",
-      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
-      "branch": "13.0-alioth",
+      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-20",
       "device": "alioth"
     },
     "withKernelSU": false,
@@ -32,8 +32,8 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
-      "branch": "13.0-alioth",
+      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-20",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -62,8 +62,8 @@
   {
     "kernelSource": {
       "name": "Docker",
-      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8250",
-      "branch": "13.0-alioth",
+      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-20",
       "device": "alioth"
     },
     "withKernelSU": true,
@@ -92,8 +92,8 @@
   {
     "kernelSource": {
       "name": "IMMENSITY-X-KernelSU",
-      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
-      "branch": "master",
+      "repo": "https://github.com/xiaomi-sm8250-devs/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-20",
       "device": "alioth"
     },
     "withKernelSU": true,
