@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Normal",
+      "name": "vendor",
       "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
       "branch": "staging",
       "device": "alioth"
